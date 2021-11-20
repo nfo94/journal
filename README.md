@@ -1,4 +1,4 @@
-Python CLI journal with SQLite.
+### Python CLI journal with SQLite.
 
 To run this app create a virtual environment:
 
